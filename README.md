@@ -41,7 +41,7 @@ npm install https://github.com/QWarranto/soilsidekickpro-node-red-contrib-leafen
 ## Quick Start
 
 ### 1. Get Your API Key
-1. Visit [soilsidekickpro.com/podcast](https://soilsidekickpro.com/podcast) for podcast-exclusive access
+1. API Requests/Podcast Listeners**: Complete an issue request for exclusive, first 100, Founders Series API keys with lifetime preferential pricing at 60-70% off normal pricing.
 2. Request your sandbox API key (`ak_sandbox_*`)
 3. Receive key via email (typically within a few hours)
 
@@ -296,4 +296,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-**Podcast Listeners**: Visit [soilsidekickpro.com/podcast](https://soilsidekickpro.com/podcast) for exclusive Founders Series API keys with lifetime preferential pricing.
+**API Requests/Podcast Listeners**: Complete an issue request for exclusive, first 100, Founders Series API keys with lifetime preferential pricing at 60-70% off normal pricing.
