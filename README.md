@@ -1,5 +1,5 @@
 # node-red-contrib-leafengines
-Node-RED nodes for LeafEngines Agricultural Intelligence API. Connect your agricultural automation workflows to soil analysis, crop recommendations, weather data, carbon credit calculations, and more.
+Node-RED nodes for LeafEngines Agricultural Intelligence API. Connect your agricultural automation workflows to soil analysis, crop recommendations, weather data, carbon credit calculations, and more.Deep canopy, infrastructure destruction, remote/offshore, urban canyon, mining, utilities, wildlife, archaeology.  Hardware agnostic. Standard architectures. Off-line stability.
 # node-red-contrib-leafengines
 
 [![npm version](https://img.shields.io/npm/v/node-red-contrib-leafengines.svg)](https://www.npmjs.com/package/node-red-contrib-leafengines)
