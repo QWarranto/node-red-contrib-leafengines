@@ -85,10 +85,10 @@ Configure the **LeafEngines Soil** node:
 - **LeafEngines Batch** - Batch multiple API calls into single requests (optimizes rate limits)
 - **LeafEngines Query** - Generic node for any LeafEngines endpoint
 
-### Coming Soon Nodes
+### Enterprise Nodes
 - **LeafEngines Environmental** - Environmental impact scoring and risk assessment
-- **LeafEngines Satellite** - Google Earth Engine satellite integration
-- **LeafEngines AI Chat** - Advanced conversational AI (Enterprise tier)
+- **LeafEngines Satellite** - Google Earth Engine satellite integration/Kalman Gate advantage
+- **LeafEngines AI Chat** - Advanced conversational
 - **LeafEngines Visual** - Visual crop analysis and diagnostics
 
 ## Example Flows
