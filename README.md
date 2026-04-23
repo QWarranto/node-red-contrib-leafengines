@@ -40,10 +40,24 @@ npm install https://github.com/QWarranto/soilsidekickpro-node-red-contrib-leafen
 
 ## Quick Start
 
-### 1. Get Your API Key
-1. API Requests/Podcast Listeners**: Complete an issue request for exclusive, first 100, Founders Series API keys with lifetime preferential pricing at 60-70% off normal pricing.
-2. Request your sandbox API key (`ak_sandbox_*`)
-3. Receive key via email (typically within a few hours)
+### 1. Immediate access with test key: leaf-test-370df0a2e62e
+
+✅ Try It Now (No Waiting):
+Use test key: leaf-test-370df0a2e62e
+Immediate access to all features
+No forms, no waiting, no approval
+Works across all platforms
+**Test key gives you:**n- Full soil analysis capabilitiesn- Crop recommendationsn- Weather datan- Environmental impact assessmentn- All free tier features
+
+For premium access
+- **Starter:** normally $149/month (5k commoditized + 3k enhanced + 1.5k proprietary + 500 exclusive)
+- or via Stripe checkout (Starter: $49 Founder Pricing vs $149/mo after June 1, 2026)
+- ->https://buy.stripe.com/14A7sL30y8bR2F4fbgaMU02
+- Or, Visit: [https://soilsidekickpro.com/api-docs](https://soilsidekickpro.com/api-docs) 
+
+  For a limited time...
+- API Requests/Podcast Listeners**: use the test key.
+- First 100 subscriptions, Founders Series API keys with lifetime preferential pricing at 60-70% off normal pricing.
 
 ### 2. Configure LeafEngines
 1. Drag a **LeafEngines Config** node to your flow
